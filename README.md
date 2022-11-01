@@ -10,4 +10,4 @@ Berikut daftar Volunter yang diterima:
 
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
 * Cold Alpha, [coldalpha.my.id](https://coldalpha.my.id/).
-* Alpha Cold, [coldalpha.my.id](https://coldalpha.my.id/).
+* Alpha Cold, [alphacold.my.id](https://coldalpha.my.id/).
